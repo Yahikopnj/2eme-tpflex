@@ -1,0 +1,49 @@
+#gigaparent1 {
+    display: flex;
+    background-color: bisque;
+    height: 100px;
+    width: 100px;
+    flex-direction: row-reverse;
+}
+.roww{
+    color: blueviolet;
+    height: 20px;
+    width: 20px;
+}
+#giga1{
+    display: flex;
+    background-color: cadetblue;
+    height: 100px;
+    width: 100px;
+    flex-direction: column;
+    justify-content: center;
+}
+.gig1{
+    color: darkgreen;
+    height: 20px;
+    width: 20px;
+}
+#mega1{
+    display: flex;
+    background-color: chocolate;
+    height: 100px;
+    width: 100px;
+    flex-direction: column-reverse;
+}
+.meg1{
+    color: red;
+    height: 20px;
+    width: 20px;
+}
+#row1{
+    background-color: black;
+    color: aliceblue;
+    height: 100px;
+    width: 100px;
+    flex-direction: row;
+}
+.ro1{
+    color: blue;
+    height: 20px;
+    width: 20px;
+}
